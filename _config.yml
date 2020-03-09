@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hannah95baxter@gmail.com
 description: A blog about japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: hannaah_baxter
 github_username: hannah95baxter
 theme: minima
