@@ -1,0 +1,30 @@
+---
+title: A Night In Japan
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+email: hannah95baxter@gmail.com
+description: A blog about japan
+baseurl: 
+url: 
+twitter_username: hannaah_baxter
+github_username: hannah95baxter
+theme: minima
+plugins:
+- jekyll-feed
